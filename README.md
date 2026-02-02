@@ -3,6 +3,12 @@
 A prototype community feed with threaded discussions and a 24-hour karma
 leaderboard.
 
+## Links
+
+- Repo: https://github.com/Xxdinesh04xX/playto-challenge
+- Live demo: https://playto-challenge-3.onrender.com/
+- API base: https://playto-challenge-1.onrender.com/api/
+
 ## Highlights
 
 - Threaded comments with efficient tree loading
